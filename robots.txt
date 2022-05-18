@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hairrpic.github.io/trend-hairstyle/sitemapx.xml
